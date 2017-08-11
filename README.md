@@ -1,4 +1,3 @@
-# homebrew-personal
 This a [Homebrew Tap](https://github.com/mxcl/homebrew/wiki/brew-tap) containing a collection of "formulae" I either do not intend to submit to the canonical repository or have not been accepted yet. I use it for installing my own executables and other random packages.
 
 ## Usage
