@@ -2,12 +2,13 @@ require 'formula'
 
 class Wit < Formula
 
-  url 'http://wit.wiimm.de/download/wit-v2.40a-r7331-mac.tar.gz'
-  homepage 'http://wit.wiimm.de/'
-  sha256 'f8929a9427184c543dbfaebce6f422286606544b0119b67af363fa9525432722'
+  url 'https://wit.wiimm.de/download/wit-v3.01a-r7464-mac.tar.gz'
+  homepage 'https://wit.wiimm.de/'
+  sha256 'e537efb4945eb9174718172a224584ce78d5f7764dcd617cbf9647a42785ae20'
 
   def install
     bin.install Dir['bin/*']
+    pkgshare.install Dir['share/*']
   end
 
 end
