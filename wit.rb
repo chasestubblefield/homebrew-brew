@@ -1,5 +1,5 @@
 class Wit < Formula
-  desc "Tools for working with WBFS partitions"
+  desc "Wiimms ISO Tools is a set of command line tools to manipulate Wii and GameCube ISO images and WBFS containers."
   homepage "https://wit.wiimm.de/"
 
   url "https://wit.wiimm.de/download/wit-v3.01a-r7464-mac.tar.gz"
