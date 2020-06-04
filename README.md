@@ -5,7 +5,7 @@ This a [Homebrew Tap](https://github.com/mxcl/homebrew/wiki/brew-tap) containing
 "Tap" this repo to be able to use these formula:
 
 ```bash
-brew tap chasetopher/personal
+brew tap scstubblefield/personal
 ```
 
 Then you can install formula without a prefix:
@@ -17,5 +17,5 @@ brew install git-status-line
 Alternatively, you can reference specific formula and the repository will be tapped for you:
 
 ```bash
-brew install chasetopher/personal/git-status-line
+brew install scstubblefield/personal/git-status-line
 ```
